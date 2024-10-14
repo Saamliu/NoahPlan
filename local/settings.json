@@ -1,0 +1,7 @@
+{
+  "use-global-engine-setting": true,
+  "use-default-js-engine": true,
+  "js-engine-path": "D:\\CocosCreatorEdits\\Creator\\2.4.10\\resources\\engine",
+  "use-default-cpp-engine": true,
+  "cpp-engine-path": ""
+}

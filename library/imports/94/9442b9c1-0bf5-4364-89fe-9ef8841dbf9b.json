@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "退出游戏按钮",
+    "texture": "0e8ff4f9-e1e1-408c-920f-fe886595c9b2",
+    "atlas": "",
+    "rect": [
+      64,
+      17,
+      1041,
+      315
+    ],
+    "offset": [
+      -4.5,
+      -0.5
+    ],
+    "originalSize": [
+      1178,
+      348
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

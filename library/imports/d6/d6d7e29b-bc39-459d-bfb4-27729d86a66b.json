@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Noah_bullet",
+    "texture": "7a693f36-b51b-4379-a494-9f8681c91614",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      178,
+      59
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      182,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

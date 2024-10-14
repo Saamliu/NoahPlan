@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "游戏结束界面背景",
+    "texture": "a706b474-db5d-4513-9b7a-1210db9228d9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      5026,
+      2513
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      5026,
+      2513
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

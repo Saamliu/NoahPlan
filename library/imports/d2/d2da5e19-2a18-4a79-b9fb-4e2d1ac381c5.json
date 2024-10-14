@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "开始游戏按钮",
+    "texture": "0fcb390c-ced2-4128-ab73-e9452d3cc77e",
+    "atlas": "",
+    "rect": [
+      64,
+      18,
+      1050,
+      316
+    ],
+    "offset": [
+      -5,
+      -0.5
+    ],
+    "originalSize": [
+      1188,
+      351
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

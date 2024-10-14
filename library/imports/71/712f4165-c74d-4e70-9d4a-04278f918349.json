@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "关卡示意图",
+    "texture": "5577ba25-60b3-4dea-bebe-b526fcfb432e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      970,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      970,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

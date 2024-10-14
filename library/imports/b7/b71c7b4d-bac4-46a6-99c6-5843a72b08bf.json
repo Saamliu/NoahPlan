@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Noah",
+    "texture": "8bfbfbfa-ebc5-4405-987e-4f0e894d870e",
+    "atlas": "",
+    "rect": [
+      27,
+      0,
+      246,
+      88
+    ],
+    "offset": [
+      13.5,
+      0
+    ],
+    "originalSize": [
+      273,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

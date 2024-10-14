@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "游戏开始界面背景",
+    "texture": "6a9a52fd-a1f8-4b78-8129-b912512454e1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      6000,
+      3000
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      6000,
+      3000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

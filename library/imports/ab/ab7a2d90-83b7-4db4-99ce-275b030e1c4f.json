@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Enemy_bullet",
+    "texture": "e335559d-af6c-4e17-a600-b973ff3f8f26",
+    "atlas": "",
+    "rect": [
+      13,
+      33,
+      466,
+      187
+    ],
+    "offset": [
+      -0.5,
+      -8
+    ],
+    "originalSize": [
+      493,
+      237
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

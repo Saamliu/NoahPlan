@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "重新开始按钮",
+    "texture": "810eaddb-1e27-48e4-8939-198005bfe724",
+    "atlas": "",
+    "rect": [
+      64,
+      17,
+      1041,
+      315
+    ],
+    "offset": [
+      -4.5,
+      -0.5
+    ],
+    "originalSize": [
+      1178,
+      348
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

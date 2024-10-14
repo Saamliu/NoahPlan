@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "YouWin",
+    "texture": "a19e707e-e200-4a0b-89b2-bb455c11b637",
+    "atlas": "",
+    "rect": [
+      55,
+      41,
+      829,
+      173
+    ],
+    "offset": [
+      -33,
+      -0.5
+    ],
+    "originalSize": [
+      1005,
+      254
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

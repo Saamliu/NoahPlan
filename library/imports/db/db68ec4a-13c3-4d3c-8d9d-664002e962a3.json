@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Planet_04",
+    "texture": "1f34c9f6-51cc-4887-afce-a5b57c24fe26",
+    "atlas": "",
+    "rect": [
+      37,
+      25,
+      448,
+      450
+    ],
+    "offset": [
+      5,
+      6
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
